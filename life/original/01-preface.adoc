@@ -12,6 +12,7 @@ ____
 
 == Preface
 
+[.salutation]
 Candid Reader,
 
 There being sundry faithful testimonies hereafter concerning
@@ -83,4 +84,5 @@ enjoying the reward of his labours.
 Written by a friend and lover of his memory (that knew him
 many years) wishing salvation to mankind universally.
 
+[.signed-section-signature]
 John Stoddart

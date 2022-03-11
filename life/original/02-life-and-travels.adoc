@@ -604,7 +604,7 @@ considering the weight of the service, our own weakness, and the season of the y
 being in the deep of winter; yet believing the Lord required it,
 and the church also desiring us, we gave up in faith.
 And after our said half-year`'s meeting was over, Alexander Seaton, Nicholas Harris,
-John Boles, Thomas Ducket, Gershon Boate and I,
+John Boles, Thomas Duckett, Gershon Boate and I,
 took shipping at Dublin and landed at Holyhead, and thence rode to Chester,
 and had meetings in our way at Wolverhampton and Dudley (some staying at Birmingham).
 Gershon Boate and I went to Alcester, where my wife was born,
@@ -851,7 +851,14 @@ which was a confirming meeting to me that the Lord owned me in his service.
 In the year 1720, at Dublin, in obedience to the Lord,
 I was concerned the give forth the following lines, being,
 
-=== A Faithful Warning To the Inhabitants of Great Britain and Ireland, to Dread the Lord, and Turn From Their Evil Doings Before His Fury Break Forth Upon Them, as an Over-flowing Scourge.
+[.embedded-content-document.epistle]
+--
+
+[.centered]
+=== A Faithful Warning
+
+[.blurb]
+=== To the Inhabitants of Great Britain and Ireland, to Dread the Lord, and Turn From Their Evil Doings Before His Fury Break Forth Upon Them, as an Over-flowing Scourge.
 
 The Almighty God of heaven and earth hath long strove with these nations in mercy and
 lovingkindness in order to reclaim us from those evils which greatly abound therein;
@@ -954,8 +961,10 @@ and our tranquillity lengthened, and am persuaded as the apostle declared,
 Acts 10:34-35, that "`In every nation, he that feareth God, and worketh righteousness,
 is accepted of him,`" and that it will be well with them.
 
+[.centered]
 === To the People Called Quakers
 
+[.salutation]
 Dear Friends and Brethren,
 
 I have been in deep affliction of soul and spirit before the Lord,
@@ -1024,6 +1033,10 @@ nor find ease, until I gave up thereunto.
 So leaving the issue to the Lord, desiring it may have a good effect: I subscribe,
 as I am, a lover of the souls of all men,
 
+[.signed-section-signature]
 John Barcroft.
 
+[.signed-section-context-close]
 Dublin, 13th of 9th Month, 1720.
+
+--
