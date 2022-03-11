@@ -1,5 +1,6 @@
 == Postscript
 
+[.centered]
 === Some Addition by Way of Supplement To the Journal of Our Worthy Friend John Barcroft.
 
 In the perusing the journal of our worthy Friend John Barcroft, deceased;
@@ -78,9 +79,11 @@ where his example and service is much wanted; and though he is removed from this
 no doubt his spirit lives among the righteous in the kingdom of eternal joy,
 and his memory still remains sweet to a surviving remnant.
 
+[.centered]
 === Testimonies Concerning John Barcroft
 
-==== A Testimony Given Forth by Friends of the National Meeting in Ireland, Concerning our Dear Friend John Barcroft, Deceased.
+[.blurb]
+=== A Testimony Given Forth by Friends of the National Meeting in Ireland, Concerning our Dear Friend John Barcroft, Deceased.
 
 He was son of Willian and Margaret Barcroft,
 born near Rosenallies in the Queen`'s-County, about the year 1663,
@@ -120,12 +123,14 @@ we doubt not it`'s his great gain.
 Signed on behalf of the said meeting, held in Dublin, the 9th of the Third month, 1724,
 by
 
+[.signed-section-signature]
 Thomas Duckett, George Rooke, William Brookfield, Jacob Fuller, John Stoddart,
 Thomas Wight, John Stevens, Richard Sealey, William Gray, John Wily, Robert Richardson,
 Joseph Inman, Bartholomew Garnett, Nicholas Harris, Ralph Stephenson, Joseph Gill,
 Richard Mercer, Abel Strettell, Daniel Bewly, Samuel Fuller.
 
-==== A Testimony Given Forth by Friends of Mountmellick Men`'s Meeting, Concerning our Dear Friend John Barcroft, Deceased, Son of William and Margaret Barcroft, Who was Born Near Rosenallies in the Queen`'s-County, About the Year 1663, and Was a Member of Edenderry-Meeting for Many Years.
+[.blurb]
+=== A Testimony given forth by Friends of Mountmellick Men`'s Meeting, concerning our dear Friend John Barcroft, deceased, son of William and Margaret Barcroft, who was born near Rosenallies in the Queen`'s-County, about the year 1663, and was a member of Edenderry-Meeting for many years.
 
 He was educated in the way of truth by his parents; and,
 when but a youth was a constant comer to meetings, and a diligent waiter therein;
@@ -181,6 +186,7 @@ where testimonies were born to the truth.
 Signed on behalf of said men`'s meeting,
 held at Montrath the 12th day of the second month, 1724, by
 
+[.signed-section-signature]
 Thomas Pim, Ralph Stephenson, Daniel Huson, Samuel Watson, Daniel Barnard, Tobias Pim,
 Joseph Medcalfe, Mungo Bewley, Eliezar Sheldon, George Roberts, John Pim,
 Joshua Strangmax, Joshua Pim, Sam.
@@ -188,8 +194,10 @@ Watson, of Kill, Thomas Atkinson, Jacob Cantrell, Archibald Nevins, James Hutchi
 Henry Lingwood, Thomas Pearson, Samuel Pearson, Ephraim Heritage, William Nevill,
 Humphry Barnes
 
-==== Elizabeth Barcroft`'s Testimony, Concerning Her Husband John Barcroft, Deceased
+[.blurb]
+=== Elizabeth Barcroft`'s Testimony, Concerning Her Husband John Barcroft, Deceased
 
+[.signed-section-context-open]
 Dated the 6th of the Third Month, 1724.
 
 It is in my mind to write something concerning my dear husband John Barcroft, deceased,
@@ -235,6 +243,8 @@ he was sensible to the last;
 and I am well satisfied is entered into rest and peace with the Lord,
 where the wicked cease from troubling, and the weary are at rest.
 
+[.signed-section-signature]
 Elizabeth Barcroft
 
+[.signed-section-context-close]
 Ballytore the 6th of the Third Month, 1724.
